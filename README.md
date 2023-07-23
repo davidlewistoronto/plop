@@ -9,3 +9,7 @@ If you just want to learn more about plop, download the manual in the link
 
 https://github.com/davidlewistoronto/plop/blob/main/GuiPlop%20Users%20Manual.pdf
 
+
+For a helpful introduction see Martin Lewis' page
+
+https://skyinspector.co.uk/use-of-plop/
